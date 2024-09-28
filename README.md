@@ -48,7 +48,7 @@ This is a simple RESTful API designed to manage and prioritize hotel room servic
 4. **Run the API**:
 
    ```bash
-   node index.js
+   node server.js
    ```
 
    The server will start running on `http://localhost:3000`.
